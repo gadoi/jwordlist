@@ -13,7 +13,7 @@ Installation
 
 How to use
 ----------
-![brute-force-facebook screenhhost](https://github.com/j3ssie/jwordlist/master/screenshot.png)
+![brute-force-facebook screenhhost](https://github.com/j3ssie/jwordlist/blob/master/screenshot.png)
 
 Required Programs
 -----------------
