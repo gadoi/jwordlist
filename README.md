@@ -13,7 +13,11 @@ Installation
 
 How to use
 ----------
+<<<<<<< HEAD
 ![brute-force-facebook screenhhost](https://github.com/j3ssie/jwordlist/master/screenshot.png)
+=======
+![brute-force-facebook screenhhost](https://github.com/j3ssie/jwordlist/blob/master/screenshot.png)
+>>>>>>> e00cee7cc16970301d29ac61228024068d69d6fa
 
 Required Programs
 -----------------
@@ -21,4 +25,8 @@ Required Programs
 
 Contact
 -------
+<<<<<<< HEAD
 - [j3ssiej.net23.net](http://j3ssiej.net23.net/)
+=======
+- [j3ssiej.net23.net](http://j3ssiej.net23.net/)
+>>>>>>> e00cee7cc16970301d29ac61228024068d69d6fa
