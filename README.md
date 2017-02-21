@@ -13,7 +13,7 @@ Installation
 
 How to use
 ----------
-(https://github.com/j3ssie/jwordlist/blob/master/screenshot.png)
+![jwordlist screenshot](https://github.com/j3ssie/jwordlist/blob/master/screenshot.png)
 
 Required Programs
 -----------------
